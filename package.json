@@ -1,0 +1,17 @@
+{
+	"title": "Send to aria2",
+	"name": "send-to-aria2",
+	"version": "1.0.0",
+	"description": "This extension captures download links and sends them to aria2 server.",
+	"main": "lib/main.js",
+	"author": "Metalnem",
+	"engines": {
+		"firefox": ">=38.0a1"
+	},
+	"license": "MIT",
+	"preferences": [{
+		"name": "path",
+		"title": "JSON-RPC Path",
+		"type": "string"
+	}]
+}
