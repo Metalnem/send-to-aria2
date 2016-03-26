@@ -13,5 +13,9 @@
 		"name": "path",
 		"title": "JSON-RPC Path",
 		"type": "string"
+	}, {
+		"name": "token",
+		"title": "RPC Secret",
+		"type": "string"
 	}]
 }
