@@ -1,10 +1,10 @@
-var username = document.getElementById('username');
-var password = document.getElementById('password');
+let username = document.getElementById('username');
+let password = document.getElementById('password');
 
-var login = document.getElementById('login');
-var cancel = document.getElementById('cancel');
+let login = document.getElementById('login');
+let cancel = document.getElementById('cancel');
 
-document.onkeydown = function(event) {
+document.onkeydown = function (event) {
 	if (event.keyCode === 13) {
 		onLogin();
 	} else if (event.keyCode === 27) {
