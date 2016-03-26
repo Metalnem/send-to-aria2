@@ -4,7 +4,7 @@ let password = document.getElementById('password');
 let login = document.getElementById('login');
 let cancel = document.getElementById('cancel');
 
-document.onkeydown = function (event) {
+document.onkeydown = event => {
 	if (event.keyCode === 13) {
 		onLogin();
 	} else if (event.keyCode === 27) {
