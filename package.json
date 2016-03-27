@@ -1,7 +1,7 @@
 {
 	"title": "Send to aria2",
-	"name": "send-to-aria2",
-	"version": "1.0.0",
+	"name": "aria2-rpc",
+	"version": "1.0.1",
 	"description": "This extension captures download links and sends them to aria2 server.",
 	"main": "lib/main.js",
 	"author": "Metalnem",
