@@ -1,8 +1,8 @@
-let username = document.getElementById('username');
-let password = document.getElementById('password');
+const username = document.getElementById('username');
+const password = document.getElementById('password');
 
-let login = document.getElementById('login');
-let cancel = document.getElementById('cancel');
+const login = document.getElementById('login');
+const cancel = document.getElementById('cancel');
 
 document.onkeydown = event => {
 	if (event.keyCode === 13) {
