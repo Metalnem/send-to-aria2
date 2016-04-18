@@ -1,21 +1,21 @@
 {
-    "title": "Send to aria2",
-    "name": "aria2-rpc",
-    "version": "1.0.1",
-    "description": "This extension captures download links and sends them to aria2 server.",
-    "main": "lib/main.js",
-    "author": "Metalnem",
-    "engines": {
-        "firefox": ">=38.0a1"
-    },
-    "license": "MIT",
-    "preferences": [{
-        "name": "path",
-        "title": "JSON-RPC Path",
-        "type": "string"
-    }, {
-        "name": "token",
-        "title": "RPC Secret",
-        "type": "string"
-    }]
+	"title": "Send to aria2",
+	"name": "aria2-rpc",
+	"version": "1.1.0",
+	"description": "This extension captures download links and sends them to aria2 server.",
+	"main": "lib/main.js",
+	"author": "Metalnem",
+	"engines": {
+		"firefox": ">=38.0a1"
+	},
+	"license": "MIT",
+	"preferences": [{
+		"name": "path",
+		"title": "JSON-RPC Path",
+		"type": "string"
+	}, {
+		"name": "token",
+		"title": "RPC Secret",
+		"type": "string"
+	}]
 }
