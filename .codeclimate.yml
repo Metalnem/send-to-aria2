@@ -4,3 +4,7 @@ languages:
 engines:
   eslint:
     enabled: true
+
+ratings:
+  paths:
+  - "**.js"
