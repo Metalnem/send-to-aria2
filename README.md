@@ -1,4 +1,4 @@
-# Send to aria2 [![Code Climate](https://codeclimate.com/github/Metalnem/send-to-aria2/badges/gpa.svg)](https://codeclimate.com/github/Metalnem/send-to-aria2) [![license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/metalnem/send-to-aria2/master/LICENSE)
+# Send to aria2 [![license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/metalnem/send-to-aria2/master/LICENSE)
 
 This Firefox extension captures download links and sends them to aria2 server. You can download it [here](https://addons.mozilla.org/en-US/firefox/addon/send-to-aria2/).
 
